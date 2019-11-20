@@ -27,25 +27,3 @@ We strongly encourage everyone who can make it to attend this event! The more pe
 20:00 - Q&A: Community questions (please write down your questions or tweet @co_up with #saveCoUp)
 
 20:30 - Lightning talks: Your ideas, stories, etc. [Please submit your lightning talk idea here](https://docs.google.com/forms/d/e/1FAIpQLSfhAPiw-hviQYsE21qTBAaGgkYbTaNtP5SvZ1R7pv1gtxvAyQ/viewform?usp=sf_link).
-
-<hr class="coup-hr">
-
-
-<section class="support-section">
-  <p>
-    For more background on co.up’s history, the financial situation, future plans, and on who’s running co.up, <a href="/faq">read our FAQ</a>.
-  </p>
-</section>
-
-<p>
-  <a class="btn btn-donation" href="https://ko-fi.com/CoUpCommunity">
-    <img src="/images/support-us/kofi.png" alt="">
-    Donate on Ko-Fi
-  </a>
-  <a class="btn btn-donation" href="https://www.paypal.me/CoUpCommunity">
-    <img src="/images/support-us/paypal.png" alt="">
-    Donate via Paypal
-  </a>
-</p>
-
-<hr class="coup-hr">
