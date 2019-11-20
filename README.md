@@ -1,16 +1,50 @@
 # co.up
+
 This is the website of the co.up community space: https://co-up.de/
 
-## Run and develop locally:
-`jekyll serve`
-View the website at http://localhost:4000/
+![Photo of co.up space](https://co-up.de/photos/coup_3rd_lounge.jpg)
 
-## Write and publish a blog post:
-Go to the `_drafts` folder, duplicate the file `_drafts/2019-11-06-draft.md` and rename it. You can change the date but if it's a date in the future you won't be able to see it locally.
+## How to contribute
+
+Thank you so much for thinking about contributing! 🌻  
+
+__Where to start__. Any Github issue tagged with [good first issue](https://github.com/co-up/co-up.de/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) is a good way to get started.
+
+__Questions__. If you have any questions, don't hesitate to [open a Github issue](https://github.com/co-up/co-up.de/issues/new) if it's directly related to the website or otherwise email hello@co-up.de for everything else. We appreciate any sort of contribution.
+
+
+## Set up your local environment
+
+1. Click the `Fork` button on Github.
+2. Clone your fork locally and enable fetching updates:
+
+```sh
+git clone git@github.com:yourusername/co-up.de.git
+cd co-up.de
+git remote add upstream https://github.com/co-up/co-up.de.git
+git fetch upstream
+```
+
+3. [Install Jekyll](https://jekyllrb.com/docs/installation/).
+4. `bundle install` -- install the required gems
+5. `jekyll serve` -- serve the website at http://localhost:4000/  
+(👉 If this errors, then use `bundle exec jekyll serve`.)
+
+
+## Write and publish a blog post
+
+Set up your local environment. See above.
+
+__Duplicate draft file.__ Go to the `_drafts` folder, duplicate the file `_drafts/2019-11-06-draft.md` and rename it. You can change the date but if it's a date in the future you won't be able to see it locally.
 Don't delete the original `_drafts/2019-11-06-draft.md` file.
 
-Write your blog post. There is already some basic markdown in the draft but this [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might be useful too.
+__Write your blog post.__ There is already some basic markdown in the draft but this [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might be useful too.
 
-Check if it's all good with the draft. To see your draft live locally, run Jekyll with the --drafts flag (e.g., jekyll serve --drafts) and open website at http://localhost:4000/
+__Check if it's all good with the draft.__ To see your draft live locally, run Jekyll with the `--drafts` flag (e.g., `jekyll serve --drafts`) and open website at http://localhost:4000/
 
-If it's all good and  you're ready to publish it, change the date on the file and move it to `_posts`.
+__Publish.__ If it's all good and you're ready to publish it, change the date on the file and move it to `_posts`.
+
+
+## Style guide
+
+https://co-up.de/styleguide/ (This is being worked on in [#10](https://github.com/co-up/co-up.de/issues/10).)
