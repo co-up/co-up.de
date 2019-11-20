@@ -1,0 +1,21 @@
+.supporters {
+  margin-bottom: 1.5rem;
+  display: grid;
+  grid-gap: 2rem;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.supporter {
+  display: block;
+  border: 1px solid $color-coral;
+  text-align: center;
+  img {
+    margin: auto;
+    display: block;
+    width: 100%;
+    max-width: 10rem;
+  }
+  &:hover, &:focus {
+    transform: scale(1.2);
+  }
+}

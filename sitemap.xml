@@ -1,0 +1,45 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://co-up.de</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://co-up.de/about.hmtl</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://co-up.de/pricing.html</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://co-up.de/events.html</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://co-up.de/blog.html</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  {% for post in site.posts %}
+  <url>
+    <loc>http://co-up.de{{ post.url }}</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.3</priority>
+  </url>
+  {% endfor %}
+</urlset>

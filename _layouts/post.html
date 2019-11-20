@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div  class="post__header">
+  <h2>{{page.title}}</h2>
+
+  <p class="post__meta">
+    published {{page.date | date: "%B %d, %Y"}} by <span class="post__author">{{page.author}}</span>
+  </p>
+</div>
+
+<div class="post__content">
+  {{ content }}
+</div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  /**
+    * var disqus_identifier; [Optional but recommended: Define a unique identifier (e.g. post id or slug) for this thread]
+    */
+  (function() {
+   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+   dsq.src = 'https://coup.disqus.com/embed.js';
+   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=coup">comments powered by Disqus.</a></noscript>

@@ -1,0 +1,30 @@
+a, button, input, select, textarea {
+  transition-property: color, background-color, transform, border;
+  transition-duration: 0.15s;
+  color: $color-blue;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color: $color-orange;
+  text-decoration: underline;
+}
+
+/* on_black links */
+a.on_black:link, a.on_black:visited {
+  color: #FFF;
+}
+
+a.on_black:hover, a.on_black:active {
+  color: $color-orange;
+  text-decoration: underline;
+}
+
+/* grey links (footer) */
+a.grey_link:link, a.grey_link:visited {
+  color: $color-text;
+}
+
+a.grey_link:hover, a.grey_link:active {
+  color: $color-orange;
+}

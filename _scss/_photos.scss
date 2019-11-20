@@ -1,0 +1,16 @@
+.photos {
+  list-style-type: none;
+  margin-left: 0px;
+  margin-right: 0px;
+  li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    opacity: 0.4;
+    transition-property: opacity;
+    transition-duration: 0.15s;
+    &:hover, &:focus {
+      opacity: 1;
+    }
+  }
+}

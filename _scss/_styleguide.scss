@@ -1,0 +1,34 @@
+.styleguide-section {
+  margin-bottom: 3rem;
+}
+
+.styleguide-logos {
+  margin-bottom: 1.5rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 2rem;
+  align-items: center;
+}
+
+.styleguide-logos--wide {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.styleguide-logo {
+  // box-shadow: 0 0 1rem rgba(0,0,0,.5);
+}
+
+.styleguide-colors {
+  list-style: none;
+  margin-left: 0;
+  margin-bottom: 1.5rem;
+}
+
+.styleguide-color {
+  display: inline-block;
+  height: 2rem;
+  padding: .5rem 1rem;
+  font-family: monospace;
+  letter-spacing: .05rem;
+  color: $color-white;
+}

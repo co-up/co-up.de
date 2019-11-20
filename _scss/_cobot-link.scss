@@ -1,0 +1,15 @@
+/* cobot link */
+
+.cobot-link {
+  line-height: 1.5;
+  padding-top: 4rem;
+  background-image: url('../images/cobot.svg');
+  background-repeat: no-repeat;
+  background-size: 3rem;
+  background-position: 50% 0;
+  @media screen and (min-width: 640px) {
+    padding-top: 0;
+    padding-left: 4rem;
+    background-position: 0 .15rem;
+  }
+}

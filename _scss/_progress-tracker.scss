@@ -1,0 +1,48 @@
+.progress-tracker {
+  padding: 3rem 3rem 1rem 3rem;
+  border-radius: 1rem;
+  border: 1px solid $color-blue;
+}
+
+.progress-bar {
+  height: 2rem;
+  border-radius: 1rem;
+  background-color: rgba($color-blue, .1);
+  overflow: hidden;
+  margin-left: -.25rem;
+  margin-right: -.25rem;
+}
+
+.progress {
+  height: inherit;
+  background-color: $color-blue;
+  position: relative;
+}
+
+.progess-percent {
+  position: absolute;
+  color: $color-blue;
+  line-height: 2rem;
+  padding-left: .5ch;
+  left: 100%;
+}
+
+.money {
+  font-size: 0.8rem;
+  color: $color-blue;
+  padding-top: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.goal {
+  color: rgba($color-blue, .75);
+}
+
+.progress-date {
+  padding-top: 2rem;
+  color: $color-grey;
+  font-style: italic;
+  font-size: .75rem;
+  text-align: right;
+}

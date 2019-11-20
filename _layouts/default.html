@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+  {% include head.html %}
+
+<body>
+
+  {% include header.html %}
+
+  <div class="site-main">
+    <div class="container">
+      <div class="main">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  {% include sidebar.html %}
+
+  {% include footer.html %}
+
+  <script type="text/javascript" charset="utf-8">
+    activate(document.getElementById('navigation').getElementsByTagName('a'));
+    activate(document.getElementsByClassName('activatable'));
+
+    function activate(links) {
+      for(var i in links) {
+        var link = links[i];
+        if(link.href == location.href) {
+          link.className = link.className + ' active';
+        };
+      };
+    }
+  </script>
+
+  <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.lightbox-0.5.pack.js"></script>
+  <script type="text/javascript" src="/js/application.js"></script>
+  <script type="text/javascript" src="/js/mustache.js"></script>
+
+  {{ page.js }}
+</body>
+</html>
