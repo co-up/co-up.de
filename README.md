@@ -6,11 +6,11 @@ This is the website of the co.up community space: https://co-up.de/
 
 ## How to contribute
 
-Thank you so much for thinking about contributing! 🌻
+Thank you so much for thinking about contributing! 🌻  
 
-If you have any questions, don't hesitate to reach out by *[TK: way to reach out]*.
+__Where to start__. Any Github issue tagged with [good first issue](https://github.com/co-up/co-up.de/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) is a good way to get started.
 
-*[TK: ways to contribute]*
+__Questions__. If you have any questions, don't hesitate to [open a Github issue](https://github.com/co-up/co-up.de/issues/new) if it's directly related to the website or otherwise email hello@co-up.de for everything else. We appreciate any sort of contribution.
 
 
 ## Set up your local environment
@@ -46,4 +46,4 @@ __Publish.__ If it's all good and you're ready to publish it, change the date on
 
 ## Style guide
 
-[*TK*]
+https://co-up.de/styleguide/ (This is being worked on in [#10](https://github.com/co-up/co-up.de/issues/10).)
