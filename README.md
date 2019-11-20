@@ -27,7 +27,8 @@ git fetch upstream
 
 3. [Install Jekyll](https://jekyllrb.com/docs/installation/).
 4. `bundle install` -- install the required gems
-5. `jekyll serve` -- serve the website at http://localhost:4000/
+5. `jekyll serve` -- serve the website at http://localhost:4000/  
+(👉 If this errors, then use `bundle exec jekyll serve`.)
 
 
 ## Write and publish a blog post
