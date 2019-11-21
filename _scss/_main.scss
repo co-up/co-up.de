@@ -213,3 +213,10 @@ hr.orange {
     margin-bottom: 1.5rem;
   }
 }
+
+.text-snippet {
+  border: 1px solid $color-coral;
+  font-size: .875rem;
+  padding: 1rem;
+  overflow-x: auto;
+}
