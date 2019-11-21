@@ -204,3 +204,12 @@ hr.orange {
   background-color: $color-maiz;
   color: $color-maiz;
 }
+
+.support-list {
+  strong {
+    display: block;
+  }
+  li {
+    margin-bottom: 1.5rem;
+  }
+}
