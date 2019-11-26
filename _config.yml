@@ -21,6 +21,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://co-up.de" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 lang: "en_US"
+# progress bar
+monthly_progress: 960.00
+onetime_progress: 2247.24
+progress_lastupdate: "Nov 25th 2019"
 
 # Build settings
 markdown: kramdown
