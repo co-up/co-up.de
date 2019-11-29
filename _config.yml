@@ -22,7 +22,7 @@ url: "https://co-up.de" # the base hostname & protocol for your site, e.g. http:
 permalink: pretty
 lang: "en_US"
 # progress bar
-monthly_progress: 1320.00
+monthly_progress: 1820.00
 onetime_progress: 3463.38
 progress_lastupdate: "Nov 28th 2019"
 
