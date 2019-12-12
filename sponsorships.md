@@ -36,7 +36,7 @@ We estimate that between 20-50.000 people have come through co.up over the years
 
 **These numbers are conservative best guesses, based on our calendar of the last ten years, and average visitor numbers that meetups report to us. We don’t track the exact number of visitors in the space.*
 
-Below you find some sponsoring packages that are ready to go for you. Each option is also available as a yearly payment.
+Find a list of available sponsorship packages below. Each option is also available as part of a yearly payment.
 
 Activations  | [co.up Sponsor 100](https://members.co-up.de/membership_signup/new?plan_id=f7a7b200f596d0d7c77b91a6fb06339b) | [co.up Sponsor 200]() | [co.up Sponsor 400](https://members.co-up.de/membership_signup/new?plan_id=b402d723bd7f964ce7ff9141943e01c3) | [co.up Partner 500](https://members.co-up.de/membership_signup/new?plan_id=b7cc0e80af703e64643e0d1e5c652751) |
 -- | -- | -- | -- | --
