@@ -25,7 +25,6 @@ Find a complete list of the events that take place in the space [here](/events).
 ### How can you sponsor co.up?
 
 You help us most by committing to a recurring [monthly contribution of at least EUR 200](https://members.co-up.de/).
-
 Alternatively, you can make a [yearly contribution of at least EUR 500](https://members.co-up.de/).
 
 Note: This option can be used via “yearly payment” membership, which may be cancelled immediately to limit your support to a one-time payment.
@@ -34,7 +33,7 @@ Note: This option can be used via “yearly payment” membership, which may be 
 
 We estimate that between 20-50.000 people have come through co.up over the years, over an estimated 3000 events, and every month we currently get around 500 visitors. This is an opportunity for you to not only support the organizations in the space, but make yourself visible to the countless future talent that is currently developing their skills in our space.
 
-**These numbers are conservative best guesses, based on our calendar of the last ten years, and average visitor numbers that meetups report to us. We don’t track the exact number of visitors in the space.*
+*These numbers are conservative best guesses, based on our calendar of the last ten years, and average visitor numbers that meetups report to us. We don’t track the exact number of visitors in the space.*
 
 Find a list of available sponsorship packages below. Each option is also available as part of a yearly payment.
 
