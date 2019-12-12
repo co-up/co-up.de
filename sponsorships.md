@@ -51,3 +51,11 @@ Please note: co.up will not collect and provide our attendees or organizers’ p
 If you want to become a company supporter or have questions we can answer, please email hello@co-up.de explaining your situation. You can also visit [members.co-up.de](http://members.co-up.de) and choose one of the preselected options.
 
 ### Thank you for your support!
+
+<hr class="coup-hr">
+
+<section class="support-section">
+  <p>
+    For more background on co.up’s history, the financial situation, future plans, and on who’s running co.up, <a href="/faq">read our FAQ</a>.
+  </p>
+</section>
