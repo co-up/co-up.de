@@ -1,0 +1,44 @@
+.sponsor-packages {
+  border-spacing: 1rem 0;
+  font-size: .75rem;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  width: calc(100% + 2rem);
+  @media screen and (min-width: 90px) {
+    font-size: .875rem;
+  }
+  th, td {
+    background-color: #FFF;
+    padding: .5rem;
+    @media screen and (min-width: 90px) {
+      padding: .75rem;
+    }
+  }
+  tfoot {
+    font-style: normal;
+  }
+  th:first-child,
+  td:first-child {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  th:not(:first-child),
+  td:not(:first-child) {
+    text-align: center;
+    border-right: 1px solid $color-blue;
+    border-left: 1px solid $color-blue;
+    border-bottom: 1px dotted $color-coral;
+  }
+  th:not(:first-child) {
+    border-top: 1px solid $color-blue;
+    border-bottom: 1px solid $color-blue;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+  tfoot td:not(:first-child) {
+    border-bottom: 1px solid $color-blue;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
+}
