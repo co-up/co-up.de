@@ -22,14 +22,7 @@ Find a complete list of the events that take place in the space [here](/events).
 
 **We need to raise 3000€ in monthly contributions by January 10th, 2020** in order to maintain co.up and our mission. Your company contribution will make an enormous difference in whether co.up can stay affordable and open to the community for events, learning groups, workshops, and more.
 
-### How can you sponsor co.up?
-
-You help us most by committing to a recurring [monthly contribution of at least EUR 200](https://members.co-up.de/).
-Alternatively, you can make a [yearly contribution of at least EUR 500](https://members.co-up.de/).
-
-Note: This option can be used via “yearly payment” membership, which may be cancelled immediately to limit your support to a one-time payment.
-
-### What we offer
+### How you can sponsor and what we offer
 
 We estimate that between 20-50.000 people have come through co.up over the years, over an estimated 3000 events, and every month we currently get around 500 visitors. This is an opportunity for you to not only support the organizations in the space, but make yourself visible to the countless future talent that is currently developing their skills in our space.
 
