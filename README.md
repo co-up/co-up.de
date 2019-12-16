@@ -6,7 +6,7 @@ This is the website of the co.up community space: https://co-up.de/
 
 ## How to contribute
 
-Thank you so much for thinking about contributing! 🌻  
+Thank you so much for thinking about contributing! 🌻
 
 __Where to start__. Any Github issue tagged with [good first issue](https://github.com/co-up/co-up.de/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) is a good way to get started.
 
@@ -27,7 +27,7 @@ git fetch upstream
 
 3. [Install Jekyll](https://jekyllrb.com/docs/installation/).
 4. `bundle install` -- install the required gems
-5. `jekyll serve` -- serve the website at http://localhost:4000/  
+5. `jekyll serve` -- serve the website at http://localhost:4000/
 (👉 If this errors, then use `bundle exec jekyll serve`.)
 
 
@@ -44,6 +44,12 @@ __Check if it's all good with the draft.__ To see your draft live locally, run J
 
 __Publish.__ If it's all good and you're ready to publish it, change the date on the file and move it to `_posts`.
 
+### Setting Social Media info
+
+On default the first 50 words will be used as a preview in social media. You can overwrite this by setting  `description: you description` in the meta section.
+
+You can specify a image that is used for social media previews by setting
+`images: path_to/image.img` in the meta section.
 
 ## Style guide
 
