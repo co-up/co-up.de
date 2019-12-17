@@ -1,6 +1,7 @@
 ---
 layout: post
 title: end of one journey and the beginning of another
+image: /images/blog/co-up-collage.jpg
 author: Thilo
 redirect_from: /2017/09/14/end-of-one-journey.html
 ---

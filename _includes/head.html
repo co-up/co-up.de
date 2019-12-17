@@ -1,7 +1,9 @@
 <head>
+  {% assign post_excerpt = page.content | markdownify | strip_html | truncatewords: 50 %}
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>{{ page.title }} | co.up Community</title>
-  <meta name="author" content="co.up Community Event Space" />
+  <title>{{ page.title }} | {{ site.name }} </title>
+  <meta name="author" content="{{page.author}}" />
+  <meta name="description" content="{% if page.description | size > 1%}{{ page.description }}{% elsif post_excerpt | size > 1 %}{{post_excerpt}}{% else %}{{site.description}}{%endif%}">
 
   <link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
   <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
@@ -11,18 +13,15 @@
   <link href="http://co-up.de/atom.xml" rel="alternate" title="Blog Feed" type="application/atom+xml" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta property="og:title" content="co.up needs your help!">
+  <meta property="og:title" content="{{ page.title }}">
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="co.up Community Event Space">
-  <meta property="og:description" content="The rent is rising and without your help we'll be forced to close the space. That means no more free event space for community members or organizations. We need your support—help #saveCoUp!">
-  <meta property="og:image" content="https://co-up.de/images/save-coup-og.png">
-  <meta property="og:url" content="https://co-up.de/support-us/">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:description" content="{% if page.description | size > 1%}{{ page.description }}{% elsif post_excerpt | size > 1 %}{{post_excerpt}}{% else %}{{site.description}}{%endif%}">
+  <meta property="og:image" content="{{ page.image  | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
 
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://co-up.de/support-us/">
-  <meta property="twitter:title" content="co.up needs your help!">
-  <meta property="twitter:description" content="The rent is rising and without your help we'll be forced to close the space. That means no more free event space for community members or organizations. We need your support—help #saveCoUp!">
-  <meta property="twitter:image" content="https://co-up.de/images/save-coup-og.png">
+  <meta property="twitter:site" content="{{site.twitter.username}}">
 
   <link rel="stylesheet" href="/css/styles.css">
 

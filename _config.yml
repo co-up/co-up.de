@@ -13,11 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: co.up Community Space for the tech and creative communities in Berlin
-email: claire@co-up.de
+title: co.up needs your help! #co.up Community Space for the tech and creative communities in Berlin
+email: hello@co-up.de
+name: co.up Community Space
+# description: We are a Community Event Space located in Berlin Kreuzberg providing free and independent event and workshop spaces for the Berlin tech and creative community.
 description: >- # this means to ignore newlines until "baseurl:"
-  We are a Community Event Space located in Berlin Kreuzberg providing free and independent event and workshop spaces for the Berlin tech and creative community.
+  co.up's rent is being doubled, and without your help we'll be forced to close the space. That means no more free event space for community members or organizations. We need your support — help #saveCoUp!
 baseurl: "" # the subpath of your site, e.g. /blog
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      image: "/images/save-coup-og.png"
+
+twitter:
+  username: co_up
+
 url: "https://co-up.de" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 lang: "en_US"
@@ -31,7 +44,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag
   - jekyll-redirect-from
 
 # Assets
