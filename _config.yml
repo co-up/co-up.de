@@ -27,7 +27,6 @@ defaults:
       type: "pages"
     values:
       image: "/images/save-coup-og.png"
-      site_name: test
 
 twitter:
   username: co_up
