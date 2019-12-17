@@ -46,10 +46,10 @@ __Publish.__ If it's all good and you're ready to publish it, change the date on
 
 ### Setting Social Media info
 
-On default the first 50 words will be used as a preview in social media. You can overwrite this by setting  `description: you description` in the meta section.
+By default the first 50 words will be used as a preview in social media. You can overwrite this by setting  `description: you description` in the meta section.
 
-You can specify a image that is used for social media previews by setting
-`images: path_to/image.img` in the meta section.
+You can specify an image that is used for social media previews by setting
+`image: path_to/image.img` in the meta section.
 
 ## Style guide
 
