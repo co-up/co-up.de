@@ -5,22 +5,22 @@
     Monthly Recurring Support
   </h3>
   <div class="progress-bar">
-    <div class="progress" style="width: {{ progress_month }}%"><span class="progess-percent">{{ progress_month }}%</span></div>
+    <div class="progress" style="width: {{ progress_month }}%"><span class="progress-percent">{{ progress_month }}%</span></div>
   </div>
   <div class="money">
     <div class="raised"><strong>{{ site.monthly_progress }}€/monthly raised</strong></div>
-    <div class="goal tr">Goal: 3.000€/monthly</div>
+    <div class="goal">Goal: 3.000€/monthly</div>
   </div>
   <br>
   <h3>
     One-time Donations
   </h3>
-  <div class="progress-bar">
-    <div class="progress" style="width: {{ progress_onetime }}%"><span class="progess-percent">{{ progress_onetime }}%</span></div>
+  <div class="progress-bar progress-bar--completed">
+    <div class="progress" style="width: {{ progress_onetime }}%"><span class="progress-percent">{{ progress_onetime }}%</span></div>
   </div>
-  <div class="money">
+  <div class="money money--completed">
     <div class="raised"><strong>{{ site.onetime_progress }}€ raised</strong></div>
-    <div class="goal tr">Goal: 10.000€</div>
+    <div class="goal goal--completed">Goal: 10.000€</div>
   </div>
   <div class="progress-date">
     Funds raised since Nov 6th 2019. Last update: {{ site.progress_lastupdate }}

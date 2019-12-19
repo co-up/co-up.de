@@ -15,31 +15,33 @@
 
 .progress {
   height: inherit;
-  background-color: $color-blue;
+  background-color: $color-orange;
   position: relative;
   animation-name: raisingfunds;
   animation-duration: 1s;
   animation-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-.progess-percent {
+.progress-percent {
   position: absolute;
-  color: $color-blue;
-  line-height: 2rem;
-  padding-left: .5ch;
-  left: 100%;
+  color: $color-white;
+  line-height: 2.25rem;
+  font-size: .875rem;
+  font-weight: 600;
+  left: 90%;
 }
 
 .money {
   font-size: 0.8rem;
-  color: $color-blue;
+  color: $color-orange;
   padding-top: 0.5rem;
   display: flex;
   justify-content: space-between;
 }
 
 .goal {
-  color: rgba($color-blue, .75);
+  color: rgba($color-orange, .75);
+  text-align: right;
 }
 
 .progress-date {
@@ -48,6 +50,22 @@
   font-style: italic;
   font-size: .75rem;
   text-align: right;
+}
+
+.progress-bar--completed {
+  .progress {
+    background-color: $color-blue;
+  }
+  .progress-percent {
+    left: 87%;
+    &:before {
+      content: '🎉';
+    }
+  }
+}
+
+.money--completed, .goal--completed {
+  color: $color-blue;
 }
 
 @keyframes raisingfunds {
