@@ -24,7 +24,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 defaults:
   - scope:
       path: ""
-      type: "pages"
     values:
       image: "/images/save-coup-og.png"
 
