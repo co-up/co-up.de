@@ -18,11 +18,11 @@ Since we factored this rent into our #saveCoUp calculations, we now have a new p
 
 Our amended goal is to find a new tenant for the office space. We still consider the campaign a huge success so far. But it does mean we’re going to be working to #saveCoUp a little longer and we need to ask you a huge favor: **If you, or anyone you know, is looking for office space in Berlin, take a look our office!**
 
+We’ve set up a [webpage with more details](/rent-office/).
+
 ### Spread the word: Office for rent
 
-We’ve set up a [webpage with more details](https://co-up.de/rent-office/).
-
-We will update this page with more information soon, please direct anyone interested in renting office space to this webpage and encourage them to reach out to us.
+We will update this page with more information soon. Please direct anyone interested in renting office space to [this webpage](/rent-office/) and encourage them to reach out to us.
 
 We’re going to keep doing everything we can to keep co.up open. The timing is unfortunate. But we’ve gotten this far based on the co.up community and we’re confident that we’ll be able to find a new tenant for the space.
 
