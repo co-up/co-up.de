@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rent Furnished Office in Berlin Kreuzberg
-image: /photos/coup_3rd_lounge.jpg
+image: /photos/office-3rd-floor-main.jpg
 description: Need a space for your next workshop, offsite, or team event? You can book your next event at co.up, a community space with a purpose in the heart of Kreuzberg.
 ---
 
@@ -16,6 +16,8 @@ description: Need a space for your next workshop, offsite, or team event? You ca
 
 <h2>Your office in the heart of Kreuzberg</h2>
 
+![Office with furniture of the current tenant and window to the meeting room in the background](photos/office-3rd-floor-main.jpg)
+
 <p>
   Our current tenants are moving out and the office will be available starting on <strong>March 1st, 2020</strong>. We’re sad to see them go, but excited to see who will move in next.
 </p>
@@ -28,19 +30,20 @@ description: Need a space for your next workshop, offsite, or team event? You ca
   Work next door to startups and companies reshaping the tech industry; in the evenings, the communal space hosts some of Berlin’s most popular tech and creative meetups. Our ideal tenants will enjoy the benefits of working inside a tech community space and can commit to supporting our values and the <a href="code-of-conduct/">Code of Conduct</a>.
 </p>
 
-<ul>
-  <li>Available from March 1st, 2020</li>
-  <li>EUR 1800 / month (excl. tax)</li>
-  <li>Main office room: 42sqm, own lockable door, desks for ca. 7 people available</li>
-  <li>Meeting room for ca. 5 people (usage not exclusive, availability might overlap with community events)</li>
-  <li>Large event & workshop space (usage not exclusive, availability might overlap with community events)</li>
-  <li>Shared kitchen and bathrooms</li>
-  <li>Elevator</li>
-  <li>100 Mbit Internet and Wifi included</li>
-  <li>Weekly Cleaning included</li>
-  <li>Bike parking available in backyard</li>
-  <li>Car parking available upon request (cost not included)</li>
-</ul>
+![Entrance area of the office from inside](photos/office-3rd-floor-entrance.jpg)
+
+* Available from March 1st, 2020
+* EUR 1800 / month (excl. tax)
+* Main office room: 42sqm, own lockable door, desks for up to 10 people available ([groundplan](/photos/3rd-floor-groundplan.jpg))
+* Meeting room for ca. 5 people (usage not exclusive, availability might overlap with community events)
+* Large event & workshop space (usage not exclusive, availability might overlap with community events)
+* Shared kitchen and bathrooms
+* Elevator
+* 100 MBit Internet and Wifi included
+* Weekly Cleaning included
+* Bike parking available in backyard
+* Car parking available upon request (cost not included
+
 
 <p>
   For more information, please contact <a href="mailto:hello@co-up.de">hello@co-up.de</a>. We’d be happy to answer your questions.
