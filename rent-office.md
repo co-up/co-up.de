@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rent Furnished Office in Berlin Kreuzberg
+title: Rent Fully Serviced Office in Berlin Kreuzberg
 image: /photos/office-3rd-floor-main.jpg
 description: Are you searching for an office that is well-connected, is in the heart of Berlins indepent tech community and offers a furnished, ready-to-go space in one of Berlin’s historic industrial buildings? We have a new opening and would love to have you in our space. 
 ---
