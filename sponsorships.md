@@ -18,9 +18,7 @@ For 10 years, co.up has provided free tech education to thousands of attendees a
 
 Find a complete list of the events that take place in the space [here](/events).
 
-**Now you have the chance to be a part of co.up’s next chapter by becoming a co.up sponsor.** Your contribution will directly help provide an affordable space to organizations fighting to make tech more representative.
-
-**We need to raise 3000€ in monthly contributions by January 10th, 2020** in order to maintain co.up and our mission. Your company contribution will make an enormous difference in whether co.up can stay affordable and open to the community for events, learning groups, workshops, and more.
+**Now you have the chance to be a part of co.up’s story by becoming a co.up sponsor.** Your contribution will directly help provide an affordable space to organizations fighting to make tech more representative.
 
 ### How you can sponsor and what we offer
 
