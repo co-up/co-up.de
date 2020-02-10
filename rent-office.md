@@ -2,7 +2,7 @@
 layout: default
 title: Rent Furnished Office in Berlin Kreuzberg
 image: /photos/office-3rd-floor-main.jpg
-description: Need a space for your next workshop, offsite, or team event? You can book your next event at co.up, a community space with a purpose in the heart of Kreuzberg.
+description: Are you searching for an office that is well-connected, is in the heart of Berlins indepent tech community and offers a furnished, ready-to-go space in one of Berlin’s historic industrial buildings? We have a new opening and would love to have you in our space. 
 ---
 
 <h1>
