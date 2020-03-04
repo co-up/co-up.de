@@ -10,7 +10,7 @@ description: Are you searching for an office that is well-connected, is in the h
 </h1>
 
 <p>
-  <span class="ttu">This offer is not available anymore</span> – We found great new tenants for our third floor office! Thanks to everyone who shared this post and spread the word.
+  <span class="ttu">This offer is no longer available</span> – we found great new tenants for our third floor office! Thanks to everyone who shared this post and spread the word.
 </p>
 
 <p>
