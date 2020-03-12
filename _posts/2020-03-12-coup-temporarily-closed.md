@@ -4,7 +4,7 @@ title: 'co.up temporarily closed'
 author: The co.up team
 ---
 
-**In light of recent updates and recommendations by health officials in Berlin, we have decided to close the space to all events, effective immediately and through April 13, 2020 at the earliest, to help protect the community and reduce pressure on the local healthcare system. This decision also applies to event taking place in the Cobot offices, formerly known as our 5th floor.**
+**In light of recent updates and recommendations by health officials in Berlin, we have decided to close the space to all events, effective immediately and through April 13, 2020 at the earliest, to help protect the community and reduce pressure on the local healthcare system. This decision also applies to events taking place in the Cobot offices, formerly known as our 5th floor.**
 
 Given recent developments in the spread of the novel coronavirus in Berlin, as well as the recommendations of local health officials concerning the organizing of events, we have decided to **close co.up and the Cobot office for all events effective immediately and at least through April 13, 2020**, in order to help slow the spread of the virus.
 
