@@ -17,7 +17,6 @@ We will make sure to keep organizers updated via email as circumstances evolve, 
 If you’re looking for resources, we’re not the experts, but we’re using the following websites for general information and updates specific to the Berlin area:
 
 * [German Federal Ministry of Health (in English)](https://www.bundesgesundheitsministerium.de/en/press/2020/coronavirus.html)
-
 * [World Health Organization (WHO)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
 * [Robert Koch Institute (in German)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
 * [Tagesspiegel live updates on coronavirus in Berlin](https://www.tagesspiegel.de/berlin/infizierte-hotlines-anlaufstellen-coronavirus-in-berlin-das-ist-der-aktuelle-stand/25616798.html)
