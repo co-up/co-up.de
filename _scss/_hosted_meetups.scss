@@ -5,22 +5,34 @@
   font-size: .875rem;
 }
 
+.hosted-meetups--remote {
+
+}
+
 .meetup {
   display: inline-block;
   margin-bottom: .25rem;
   margin-right: .25rem;
   padding: .15rem .5rem;
-  background-color: $color-blue;
+  background-color: $color-grey--light;
   color: $color-white;
-  &:nth-child(2n) {
-    background-color: $color-orange;
-  }
-  &:nth-child(3n) {
-    background-color: $color-maiz;
-  }
   &:hover, &:focus {
     transform: scale(1.2);
     color: $color-white;
     text-decoration: none;
+  }
+}
+
+
+.hosted-meetups--remote {
+  .meetup {
+    background-color: $color-blue;
+    color: $color-white;
+    &:nth-child(2n) {
+      background-color: $color-orange;
+    }
+    &:nth-child(3n) {
+      background-color: $color-maiz;
+    }
   }
 }
