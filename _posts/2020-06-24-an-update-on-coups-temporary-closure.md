@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An update on co.up's temporary closure'
+title: 'An update on co.up’s temporary closure'
 author: The co.up team
 ---
 **tl;dr co.up remains closed to meetups until further notice, and is open for producing remote events and hosting co-learning groups of max. 8 guests + 2 organizers. all events taking place at the space must first be confirmed via email.**
