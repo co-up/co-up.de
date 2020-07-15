@@ -9,9 +9,11 @@ One of our goals at co.up has always been to help the Berlin tech scene better r
 
 On talent.io, companies apply to you, with interview offers for positions which match the tech stacks, desired locations, roles and salary that you have listed. You become visible on the platform only when you are actively ready to be approached with job offers, and are supported throughout your job search by a dedicated Talent Advocate.
 
-Now we need your help for the next step! [talent.io](http://talent.io/) has agreed to set up an affiliate program for us: When you use the link below to create a profile and use their service to find a tech job, we get direct financial support. And no need to worry about signup costs: using talent.io as a tech professional is completely free. Here is our special affiliate link to talent.io: [http://bit.ly/35D1Ld6](http://bit.ly/35D1Ld6) You can also access it through the QR code below:
+Now we need your help for the next step! [talent.io](http://talent.io/) has agreed to set up an affiliate program for us. When you use the link below to create a profile and use their service to find a tech job, we get direct financial support. And no need to worry about signup costs: using talent.io as a tech professional is completely free. Here is our special affiliate link to talent.io: [http://bit.ly/35D1Ld6](http://bit.ly/35D1Ld6)
 
-[https://lh5.googleusercontent.com/0pM0b-LxCVuiG7Hyucxt4YES14xGUhYHIridI-n3PaFpoPnHBErEutz_nkEhyT1DLevWiG4nwmxWE2tteMMXetn5ra8MpwMHJSZvjq986fKMf5TFRb0bK3ogsbUcpAcP351yrnAf](https://lh5.googleusercontent.com/0pM0b-LxCVuiG7Hyucxt4YES14xGUhYHIridI-n3PaFpoPnHBErEutz_nkEhyT1DLevWiG4nwmxWE2tteMMXetn5ra8MpwMHJSZvjq986fKMf5TFRb0bK3ogsbUcpAcP351yrnAf)
+You can also access it through the QR code below:
+
+![QR Code](https://lh5.googleusercontent.com/0pM0b-LxCVuiG7Hyucxt4YES14xGUhYHIridI-n3PaFpoPnHBErEutz_nkEhyT1DLevWiG4nwmxWE2tteMMXetn5ra8MpwMHJSZvjq986fKMf5TFRb0bK3ogsbUcpAcP351yrnAf "QR Code")
 
 If you’re looking for your next job (or open for something new), give it a try! There’s no commitment and you might just end up helping yourself and helping co.up at the very same time.
 
