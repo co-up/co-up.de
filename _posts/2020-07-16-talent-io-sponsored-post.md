@@ -3,7 +3,7 @@ layout: post
 title: 'thanks to talent.io for supporting the space!'
 author: The co.up team
 ---
-_Note: this blog is sponsored by [talent.io](http://talent.io/) as a part of their support for our space_
+_Note: this post is sponsored by [talent.io](http://talent.io/) as a part of their support for our space_
 
 One of our goals at co.up has always been to help the Berlin tech scene better represent the diversity and culture of the city. As a part of that mission, we’ve partnered with [talent.io](http://talent.io/), a Berlin-based tech job platform that works to connect talented tech professionals with quality companies so that everyone wraps up their job search with a positive outcome.
 
