@@ -5,7 +5,7 @@ author: The co.up team
 ---
 co.up is currently available to use for small in-person events. In light of the current public health situation, the following hygiene and safety regulations are in place:
 
-**Maximum occupancy**
+**Maximum occupancy**<br/>
 Maximum occupancy at co.up is currently 12 people for all in-person events. This includes guests, speakers and organizers. We ask that organizers make sure to limit signups accordingly. In order to add to the accessibility of their events, we also encourage them to offer them in a hybrid format (IRL + streaming) when possible.
 
 **Hygiene concept and enforcement**<br/>
@@ -37,4 +37,4 @@ The covid-19 pandemic continues to be a dynamically changing situation. We reser
 
 Furthermore, we reserve the right to revoke organizers' access to the space if the above hygiene and safety protocols are not enforced. This can take place on very short notice (i.e. <48h before the next scheduled event).
 
-Source for local infection protection regulations: [Berlins 3. SARS-CoV-2-Infektionsschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/), published on July 6, 2021.
+*Source for local infection protection regulations: [Berlins 3. SARS-CoV-2-Infektionsschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/), published on July 6, 2021.*
