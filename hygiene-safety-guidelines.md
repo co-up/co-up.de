@@ -25,7 +25,7 @@ Each person present in the space during an event must provide the following info
 As of July 6, 2021, only guests at events of 50 people and up are legally required to provide certification of either a negative test result, full vaccination, or recovery from covid-19. This is therefore currently not mandatory for events at co.up. We do, however, encourage attendees and organizers to make use of Berlin's free antigen testing offer on the day of their event. Guests presenting any cold-like symptoms, and/or an impacted sense of taste or smell, on the day of the event are not allowed to enter the space.
 
 **Masks**<br/>
-FFP2 masks are mandatory for everyone in the space at all times, including when you are seated and with the exception of performing or presenting. This mandate applies to the entirety of the event space, the meeting room, the kitchen and the restrooms. There are FFP2 masks available to use in the space. Our landlord also mandates wearing a medicinal mask on the entirety of the building premises (i.e. the stairwell, the elevator, and the courtyards and parking lots).
+FFP2 masks are mandatory for everyone in the space at all times, including when you are seated and with the exception of performing or presenting. This mandate applies to the entirety of the event space, the kitchen and the restrooms. Our landlord also mandates wearing a medicinal mask on the entirety of the building premises (i.e. the stairwell, the elevator, and the courtyards and parking lots).
 
 **Social distancing**<br/>
 All occupants of the space must maintain a 1.5m distance with each other at all times. During in-person meetups, attendees must be sitting down. Seats must be placed at a minimum of 1.5m from each other.
