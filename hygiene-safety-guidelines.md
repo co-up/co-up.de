@@ -7,7 +7,7 @@ title: co.up hygiene and safety guidelines
   Hygiene & safety guidelines
 </h1>
  
-*updated on July 22, 2021* 
+*updated on July 23, 2021* 
 
 In light of the current public health situation, the following regulations are in place at co.up:
 
