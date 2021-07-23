@@ -38,7 +38,7 @@ Occupants must respect sneeze-and-cough etiquette (into your elbow, not your han
 
 **Limits to space use**<br/>
 The meeting room is reserved for Lumeo and Cobot staff, and may not be used for other events unless agreed upon beforehand with co.up management.
-Please refrain from making use of the kitchen. The Cobot offices on the 5th floor remain closed to all events.
+Please refrain from making use of the kitchen facilities. The Cobot offices on the 5th floor remain closed to all events.
 
 The covid-19 pandemic continues to be a dynamically changing situation. We reserve the right to close co.up to the public at any time we deem necessary to help curb a rise in coronavirus infections, regardless of local or federal regulations concerning events and gatherings. Organizers of booked events will be given 48h notice by email when this is the case.
 
