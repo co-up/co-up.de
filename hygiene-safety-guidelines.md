@@ -5,7 +5,7 @@ title: co.up hygiene and safety guidelines
 
 <h1>
   Hygiene & safety guidelines
- </h1>
+</h1>
  
 *updated on July 22, 2021* 
 
