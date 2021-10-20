@@ -25,7 +25,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "/images/save-coup-og.png"
+      image: "/images/coup-og.png"
 
 twitter:
   username: co_up
