@@ -7,7 +7,7 @@ title: co.up hygiene and safety guidelines
   Hygiene & safety guidelines
 </h1>
  
-*As of November 12, 2021, we are currently working on updating our health & safety guidelines to reflect the current public health situation and local regulations in Berlin. We will post that update here soon. The guidelines below were last updated on July 23, 2021.*
+*As of November 12, 2021, we are working on updating our health & safety guidelines to reflect the current public health situation and local regulations in Berlin. We will post that update here soon. The guidelines below were last updated on July 23, 2021.*
 
 In light of the current public health situation, the following regulations are in place at co.up:
 
