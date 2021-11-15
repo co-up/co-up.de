@@ -19,4 +19,4 @@ redirect_from: imprint.html
   <p class="right">hello[at]co-up.de</p>
 </div>
 
-Handelsregister-Nr.: HRB 142517 B, SteuerNr.: 37/254/33293, UID: DE283576258, Geschäftsführer: Alexander Lang, Thilo Utke
+Handelsregister-Nr.: HRB 142517 B, SteuerNr.: 37/254/33293, UID: DE283576258, Inhaber: KB Kiez Büro GmbH
