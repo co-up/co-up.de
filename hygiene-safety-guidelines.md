@@ -31,19 +31,19 @@ Event organizers are solely responsible for preparing a personalized hygiene con
 **Contact tracing and documentation** <br/>
 Each person present in the space during an event must provide the following information: first and last name, phone number, district or city of residence, e-mail address or full residential address, times of attendance and their seat or table number (if applicable). Organizers are solely responsible for collecting this information, storing it securely for four weeks, and providing it to local health authorities upon request.
 
-**Masking**
+**Masking** <br/>
 Wearing an FFP2 mask inside the space is strongly recommended. Outside of co.up, wearing a medicinal mask is mandatory on the entirety of the building premises.
 
-**Social distancing**
+**Social distancing** <br/>
 We strongly recommend keeping a minimum distance of 1.5 meters between members of different households as much as possible.
 
-**Ventilation**
+**Ventilation** <br/>
 Please ventilate the space as much as possible by opening the windows all the way. The space must be ventilated at least every hour for 5-10 minutes, even in colder weather.
 
-**Other hygiene rules**
+**Other hygiene rules** <br/>
 Occupants must respect sneeze-and-cough etiquette (into your elbow, not your hand) and wash their hands thoroughly after touching shared surfaces. Disinfect all shared surfaces frequently using the disinfectant wipes available in the kitchen. Please do not share food or drinks.
 
-**Limits to space use**
+**Limits to space use** <br/>
 The meeting room is reserved for co.up staff and coworkers, Lumeo staff and Kiez Büro staff, and may not be used for other events unless agreed upon beforehand with co.up management. 
 
 The covid-19 pandemic continues to be a dynamically changing situation. We reserve the right to close co.up to the public at any time we deem necessary to help curb a rise in coronavirus infections, regardless of local or federal regulations concerning events and gatherings. Organizers of booked events will be given 48h notice by email when this is the case.
@@ -52,7 +52,7 @@ Furthermore, we reserve the right to revoke organizers’ access to the space if
 
 Source for local infection protection regulations: [Dritte SARS-CoV-2-Infektionsschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/), as updated on November 10, 2021.
 
-**tl;dr**
+**tl;dr** <br/>
 - co.up is a 2G space. People must show a CovPass digital certificate of vaccination OR recovery AND a valid photo ID to a member of co.up or Kiez Büro staff (or to an organizer if attending an event) before they can use the space. Failure to do so will lead to an exclusion from the premises until both documents can be provided.
 - Digital certificates must be scanned for validity by a member of co.up or Kiez Büro staff or an event organizer using the CovPassCheck app. They must also check that the name and date of birth on the certificate match those on the ID provided. Event organizers who fail to verify both documents risk a permanent ban from the space.
 - For events, maximum capacity for events is 20 people; wearing an FFP2 mask and maintaining a distance of 1.5m with members of other households is strongly encouraged; the space must be ventilated for 5-10 minutes every hour, even in cold weather. 
