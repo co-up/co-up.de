@@ -11,7 +11,7 @@ title: co.up hygiene and safety guidelines
 
 In light of the current public health situation, the following regulations are in place at co.up *(scroll down for the tl;dr)*:
 
-**Proof of vaccination or recovery requirement (“2G”)**
+**Proof of vaccination or recovery requirement (“2G”)** <br/>
 Access to co.up for any person, including but not limited to co.up staff and contractors, coworking members, office tenants, event organizers and event attendees, is only allowed after having shown proof of full vaccination against covid-19 OR of recovery from covid-19, AND a valid form of photo ID, either to a member of co.up staff, Kiez Büro staff, or (when attending an event) to the event organizer. co.up staff, contractors, coworking members, tenants and event organizers must arrange for an in-person appointment with a member of Kiez Büro or co.up staff to show this proof, following which they may continue to use the space normally.
 
 - Proof of vaccination or of recovery must be a digital certificate stored in the Robert Koch Institute's [CovPass](https://digitaler-impfnachweis-app.de/) app. Other forms of certification will not be accepted.
@@ -22,13 +22,13 @@ Access to co.up for any person, including but not limited to co.up staff and con
 
 As an additional measure to help curb the spread of the virus, we strongly recommend that event organizers enforce a same-day negative test result requirement (“2G+”) along with the above requirements.    
 
-**Maximum occupancy for events**
+**Maximum occupancy for events** <br/>
 The maximum occupancy for in-person events at co.up is currently 20 people, including organizers and speakers. We encourage organizers to increase the accessibility of their event by offering a hybrid option.
   
-**Hygiene concept and enforcement**
+**Hygiene concept and enforcement** <br/>
 Event organizers are solely responsible for preparing a personalized hygiene concept for their event, posting it, enforcing it, and submitting it to local health authorities upon request. This concept must follow the guidelines listed in Berlin’s [Dritte SARS-CoV-2-Infektionsschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/). Organizers can use our guidelines text as a basis for their hygiene concept; their own concept must be aligned with co.up’s.
 
-**Contact tracing and documentation**
+**Contact tracing and documentation** <br/>
 Each person present in the space during an event must provide the following information: first and last name, phone number, district or city of residence, e-mail address or full residential address, times of attendance and their seat or table number (if applicable). Organizers are solely responsible for collecting this information, storing it securely for four weeks, and providing it to local health authorities upon request.
 
 **Masking**
