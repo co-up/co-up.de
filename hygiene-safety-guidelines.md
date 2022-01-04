@@ -7,7 +7,7 @@ title: co.up hygiene and safety guidelines
   Hygiene & safety guidelines
 </h1>
  
-*Last updated November 22, 2021*
+*Last updated January 4, 2022*
 
 In light of the current public health situation, the following regulations are in place at co.up *(scroll down for the tl;dr)*:
 
@@ -26,7 +26,7 @@ As an additional measure to help curb the spread of the virus, we strongly recom
 The maximum occupancy for in-person events at co.up is currently 20 people, including organizers and speakers. We encourage organizers to increase the accessibility of their event by offering a hybrid option.
   
 **Hygiene concept and enforcement** <br/>
-Event organizers are solely responsible for preparing a personalized hygiene concept for their event, posting it, enforcing it, and submitting it to local health authorities upon request. This concept must follow the guidelines listed in Berlin’s [Dritte SARS-CoV-2-Infektionsschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/). Organizers can use our guidelines text as a basis for their hygiene concept; their own concept must be aligned with co.up’s.
+Event organizers are solely responsible for preparing a personalized hygiene concept for their event, posting it, enforcing it, and submitting it to local health authorities upon request. This concept must follow the guidelines listed in Berlin’s [Vierte SARS-CoV-2-Infektionsschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/). Organizers can use our guidelines text as a basis for their hygiene concept; their own concept must be aligned with co.up’s.
 
 **Contact tracing and documentation** <br/>
 Each person present in the space during an event must provide the following information: first and last name, phone number, district or city of residence, e-mail address or full residential address, times of attendance and their seat or table number (if applicable). Organizers are solely responsible for collecting this information, storing it securely for four weeks, and providing it to local health authorities upon request.
@@ -50,7 +50,7 @@ The covid-19 pandemic continues to be a dynamically changing situation. We reser
 
 Furthermore, we reserve the right to revoke organizers’ access to the space if the above hygiene and safety protocols are not enforced. This can take place on very short notice (i.e. <48h before the next scheduled event).
 
-Source for local infection protection regulations: [Dritte SARS-CoV-2-Infektionsschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/), as updated on November 10, 2021.
+Source for local infection protection regulations: [Vierte SARS-CoV-2-Infektionsschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/), as updated on December 23, 2021.
 
 **tl;dr** <br/>
 - co.up is a 2G space. People must show a CovPass digital certificate of vaccination OR recovery AND a valid photo ID to a member of co.up or Kiez Büro staff (or to an organizer if attending an event) before they can use the space. Failure to do so will lead to an exclusion from the premises until both documents can be provided.
