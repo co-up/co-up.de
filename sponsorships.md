@@ -8,7 +8,7 @@ title: Sponsor co.up – Community Space in Berlin Kreuzberg
   <span>Make your company a supporter of Berlin’s tech community</span>
 </h1>
 
-<p><em>Note: this page was most recently updated in January 2020. An update is coming soon!</em></p>
+<p><em>Note: this page was last updated in January 2020. An update is coming soon!</em></p>
 Interested in becoming one of co.up’s supporting companies?
 
 ### Why your support matters
