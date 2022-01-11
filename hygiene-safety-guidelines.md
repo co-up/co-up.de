@@ -32,7 +32,7 @@ Event organizers are solely responsible for preparing a personalized hygiene con
 Each person present in the space during an event must provide the following information: first and last name, phone number, district or city of residence, e-mail address or full residential address, times of attendance and their seat or table number (if applicable). Organizers are solely responsible for collecting this information, storing it securely for four weeks, and providing it to local health authorities upon request.
 
 **Masking** <br/>
-Wearing an FFP2 mask is mandatory inside the space when you are not at your seat. Outside of co.up, masking is mandatory on the entirety of the building premises.
+Wearing an FFP2/KN95 mask is mandatory inside the space when you are not at your seat. Outside of co.up, masking is mandatory on the entirety of the building premises.
 
 **Social distancing** <br/>
 We strongly recommend keeping a minimum distance of 1.5 meters between members of different households as much as possible.
@@ -55,6 +55,6 @@ Source for local infection protection regulations: [Vierte SARS-CoV-2-Infektions
 **tl;dr** <br/>
 - co.up is a 2G space. People must show a CovPass digital certificate of vaccination OR recovery AND a valid photo ID to a member of co.up or Kiez Büro staff (or to an organizer if attending an event) before they can use the space. Failure to do so will lead to an exclusion from the premises until both documents can be provided.
 - Digital certificates must be scanned for validity by a member of co.up or Kiez Büro staff or an event organizer using the CovPassCheck app. They must also check that the name and date of birth on the certificate match those on the ID provided. Event organizers who fail to verify both documents risk a permanent ban from the space.
-- Maximum capacity for events is 20 people; wearing an FFP2 mask is mandatory when not at your seat; maintaining a distance of 1.5m with members of other households is strongly encouraged; the space must be ventilated for 5-10 minutes every hour, even in cold weather. 
+- Maximum capacity for events is 20 people; wearing an FFP2/KN95 mask is mandatory when not at your seat; maintaining a distance of 1.5m with members of other households is strongly encouraged; the space must be ventilated for 5-10 minutes every hour, even in cold weather. 
 - Contact tracing documentation is the sole responsibility of event organizers, as well as creating and providing a hygiene concept for their event to local health authorities.
 - We strongly recommend that event organizers add a same-day negative test requirement to their event (“2G+”).
