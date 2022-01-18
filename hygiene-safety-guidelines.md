@@ -16,6 +16,7 @@ Access to co.up for any person, including but not limited to co.up staff and con
 - Proof of vaccination or of recovery must be a digital certificate stored in the Robert Koch Institute's [CovPass](https://digitaler-impfnachweis-app.de/) app. Other forms of certification will not be accepted.
 - The proof of vaccination or recovery QR code must be scanned by a member of co.up or Kiez Büro staff (or an organizer during events) using the RKI's [CovPassCheck](https://digitaler-impfnachweis-app.de/covpasscheck-app/) app. They must also verify that the name and date of birth on the scanned certificate match the name and date of birth on the ID provided. In the event of a booster requirement (see below), they must also ask the person to show proof of their booster dose via this certificate.
 - Failure to provide either an acceptable proof of vaccination or recovery or a valid photo ID will result in exclusion from the premises until such time as the person can provide them. Event organizers are informed that failure to properly verify proof of vaccination or recovery and ID may result in a permanent ban from the space.
+As an additional measure to help curb the spread of the virus, we recommend taking a rapid antigenic test (either at a Point of Care location or self-administered) before entering the space for the day, regardless of vaccination or recovery status.
 
 **Additional testing requirement for events ("2G+")**<br/>
 Event organizers must both respect and enforce a same-day negative test result requirement, regardless of the number of attendees:
