@@ -33,7 +33,7 @@ Our ideal tenants will enjoy the benefits of working inside a community space fo
 ![Entrance area of the office from inside](photos/office-3rd-floor-entrance.jpg)
 
 * Available from April 1st, 2022
-* EUR 2890 / month (excl. tax)
+* EUR 2490 / month (excl. tax)
 * Main office room: 42sqm, own lockable door ([groundplan](/photos/3rd-floor-groundplan.jpg))
 * Meeting room for ca. 5 people (usage not exclusive, availability might overlap with coworking and other bookings)
 * Large event & workshop space (usage not exclusive, availability might overlap with coworking and other bookings)
