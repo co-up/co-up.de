@@ -2,7 +2,7 @@
 layout: default
 title: Rent Fully Serviced Office in Berlin Kreuzberg
 image: /photos/office-3rd-floor-main.jpg
-description: Are you searching for an office that is well-connected, located in the heart of Berlin’s independent tech community and offers a furnished, ready-to-go space in one of Berlin’s historic industrial buildings? We have a new opening and would love to have you in our space.
+description: Are you searching for an office that is well-connected and located in a historic industrial building at the heart of Berlin’s independent tech community? We have a new opening and would love to have you in our space.
 ---
 
 <h1>
@@ -11,7 +11,7 @@ description: Are you searching for an office that is well-connected, located in 
 </h1>
 
 <p>
- Are you searching for an office that is well-connected and offers a furnished, ready-to-go space in one of Berlin’s historic industrial buildings? We have a new opening and would love to have you in our space.
+ Are you searching for an office that is well-connected and located in a historic industrial building at the heart of Berlin’s independent tech community? We have a new opening and would love to have you in our space.
 </p>
 
 <h2>Your office in the heart of Kreuzberg</h2>
@@ -34,7 +34,7 @@ Our ideal tenants will enjoy the benefits of working inside a community space fo
 
 * Available from April 1st, 2022
 * EUR 2890 / month (excl. tax)
-* Main office room: 42sqm, own lockable door, desks for up to 14 people available ([groundplan](/photos/3rd-floor-groundplan.jpg))
+* Main office room: 42sqm, own lockable door ([groundplan](/photos/3rd-floor-groundplan.jpg))
 * Meeting room for ca. 5 people (usage not exclusive, availability might overlap with coworking and other bookings)
 * Large event & workshop space (usage not exclusive, availability might overlap with coworking and other bookings)
 * Shared kitchen and bathrooms
