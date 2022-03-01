@@ -27,7 +27,7 @@ description: Are you searching for an office that is well-connected and located 
 </p>
 
 <p>
-Our ideal tenants will enjoy the benefits of working inside a community space for the local tech and creative scene and can commit to supporting our values and the <a href="code-of-conduct/">Code of Conduct</a>.
+Our ideal tenants will enjoy the benefits of working inside a community space for the local tech and creative scene and can commit to supporting our values and the <a href="https://co-up.de/code-of-conduct/">Code of Conduct</a>.
 </p>
 
 ![Entrance area of the office from inside](photos/office-3rd-floor-entrance.jpg)
