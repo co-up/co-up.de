@@ -7,9 +7,6 @@ title: coworking at co.up
   Cowork at co.up!
 </h1>
 
-__**we have a special offer for new coworkers – flex desks are currently 59€+VAT per month instead of 89€!<br/>
-get in touch at hello at co-up dot de for a tour or a trial day, or sign up directly [here](https://members.co-up.de).**__
-
 co.up began as one of the very first coworking spaces to open in Berlin, at the heart of Kreuzberg 36 on the U8 line. After shifting our focus to community events for four years, we are very happy to once again also offer coworking during the day!
 
 We’re located on the third floor of a classic Berlin factory building, in direct proximity to Kottbusser Tor and surrounded by a wide range of restaurants and cafés. You’ll find us by entering the wooden passageway currently located at Adalbertstr. 5-6, walking under the first overpass into the first courtyard, turning left into the second courtyard and heading past the bike racks to the door facing the mailboxes on the left. Ring at co.up to be buzzed in!
