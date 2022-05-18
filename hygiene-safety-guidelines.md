@@ -7,23 +7,22 @@ title: co.up hygiene and safety guidelines
   Hygiene & safety guidelines
 </h1>
  
-*Last updated April 20, 2022*
+*Last updated May 18, 2022*
 
 In light of the current public health situation, the following regulations are in place at co.up *(scroll down for the tl;dr)*:
 
 **Proof of vaccination or recovery requirement (“2G”)** <br/>
-Access to co.up for any person, including but not limited to co.up staff and contractors, coworking members, office tenants, event organizers and event attendees, is only allowed after having shown proof of full vaccination against covid-19 OR of recovery from covid-19, AND a valid form of photo ID, either to a member of co.up staff, Kiez Büro staff, or (when attending an event) to the event organizer. co.up staff, contractors, coworking members, tenants and event organizers must arrange for an in-person appointment with a member of Kiez Büro or co.up staff to show this proof, following which they may continue to use the space normally.
-- Proof of vaccination or of recovery must be a digital certificate stored in the Robert Koch Institute's [CovPass](https://digitaler-impfnachweis-app.de/) app. Other forms of certification will not be accepted.
+Access to co.up for any person, including but not limited to co.up staff and contractors, coworking members, office tenants, event organizers and event attendees, requires showing proof of full vaccination against covid-19 OR of recovery from covid-19, AND a valid form of photo ID, either to a member of co.up staff, Kiez Büro staff, or (when attending an event) to the event organizer. co.up staff, contractors, coworking members, tenants and event organizers must arrange for an in-person appointment with a member of Kiez Büro or co.up staff to show this proof, following which they may continue to use the space normally.
+- Proof of vaccination or of recovery must be a digital certificate stored in the Robert Koch Institute's [CovPass](https://digitaler-impfnachweis-app.de/) app or the [Corona Warn App](https://www.coronawarn.app/de/).
 - The proof of vaccination or recovery QR code must be scanned by a member of co.up or Kiez Büro staff (or an organizer during events) using the RKI's [CovPassCheck](https://digitaler-impfnachweis-app.de/covpasscheck-app/) app. They must also verify that the name and date of birth on the scanned certificate match the name and date of birth on the ID provided. In the event of a booster requirement (see below), they must also ask the person to show proof of their booster dose via this certificate.
-- Failure to provide either an acceptable proof of vaccination or recovery or a valid photo ID will result in exclusion from the premises until such time as the person can provide them. Event organizers are informed that failure to properly verify proof of vaccination or recovery and ID may result in a permanent ban from the space.
+- Failure to provide acceptable proof of vaccination or recovery will result in exclusion from the premises until such time as the person can provide them. Event organizers are informed that failure to properly verify proof of vaccination or recovery and ID may result in a permanent ban from the space.
 
 As an additional measure to help curb the spread of the virus, we recommend taking a rapid antigenic test (either at a Point of Care location or self-administered) before entering the space for the day, regardless of vaccination or recovery status.
 
-**Additional testing requirement for events ("2G+")**<br/>
-Event organizers must both respect and enforce a same-day negative test result requirement, regardless of the number of attendees:
+**Additional testing/booster requirement for events ("2G+")**<br/>
+Event organizers must enforce a booster/same-day negative test result requirement, regardless of the number of attendees:
 - Event attendees must provide a same-day negative rapid antigenic test result before entering the space.
-- Event attendees who have received a booster dose of a covid-19 vaccine up to 3 months prior to the event are not required to provide a negative test result, and must instead provide digital proof that they have received this booster dose. However, we do encourage all attendees to get tested even if they are boosted.
-- Testing requirements and exemptions also apply to event organizers.
+- Event attendees who have received a booster dose of a covid-19 vaccine are not required to provide a negative test result, and must instead provide digital proof that they have received this booster dose. However, we do encourage all attendees to get tested even if they are boosted.
 - We encourage attendees and organizers to get tested as close to the beginning of the event as possible.
 
 **Maximum occupancy for events** <br/>
