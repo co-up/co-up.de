@@ -1,4 +1,5 @@
 _Last updated May 31, 2022_
+
 In light of the current public health situation, the following rules are in place at co.up:
 
 **Proof of vaccination or recovery requirement (“2G”)**<br/>
