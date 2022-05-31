@@ -15,7 +15,7 @@ The maximum occupancy for in-person events at co.up is currently 50 people, incl
 We strongly encourage event organizers to make use of the [Corona-Warn-App’s QR code check-in feature](https://www.coronawarn.app/en/eventregistration/), and to increase the accessibility of their event by taking advantage of our high-speed internet for streaming.
 
 **Masking**<br/>
-When coworking, please wear a mask (FFP2/KN95) whenever you are not at your seat.
+When coworking, please wear a mask (FFP2/KN95) whenever you are not at your seat.<br/>
 During events, wearing a mask is strongly encouraged.
 
 **Ventilation**<br/>
