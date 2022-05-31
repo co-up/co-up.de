@@ -25,4 +25,4 @@ In general, please be mindful of others in the space! We ask that you not come i
 
 We reserve the right to revoke organizers’ access to the space if hygiene and safety protocols are not enforced.
 
-Current local infection protection regulations in Berlin: [SARS-CoV-2-Basisschutzmaßnahmenverordnung, as updated on May 3, 2022](https://www.berlin.de/corona/massnahmen/verordnung/).
+Current local infection protection regulations in Berlin: [SARS-CoV-2-Basisschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/), as updated on May 3, 2022.
