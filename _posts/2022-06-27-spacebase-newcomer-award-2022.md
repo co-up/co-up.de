@@ -8,7 +8,7 @@ We’re very happy to be the recipients of **[Spacebase](https://www.spacebase.c
 
 <img src="/photos/015 spacebase_zertifikat 900px.jpg" alt="Framed certificate of co.up's Spacebase 2022 Newcomer Award placed next to the meeting room" width="700px">
 
-As one of the Spacebase Awards for Excellence, the Newcomer Award recognizes outstanding new spaces that arrived on the platform in the previous year. We launched on Spacebase in late 2021 following our acquisition by (Kiez Büro)[http://kiez-buero.de] and our reboot as a coworking and community space, and are very proud to be counted among the new listed venues who have already made their mark.
+As one of the Spacebase Awards for Excellence, the Newcomer Award recognizes outstanding new spaces that arrived on the platform in the previous year. We launched on Spacebase in late 2021 following our acquisition by [Kiez Büro](http://kiez-buero.de) and our reboot as a coworking and community space, and are very proud to be counted among the new listed venues who have already made their mark.
 
 In the time since we launched, we’ve been able to welcome a wide range of bookers, from individual freelancers to workshops and company offsites. It’s a great honor for us to be able to meet people’s needs and provide them with coworking and meeting space, and the platform allows us to organize their bookings smoothly from start to finish.
 
