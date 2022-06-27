@@ -4,7 +4,7 @@ title: 'We won an award!'
 author: The co.up team
 ---
 
-We’re very happy to be the recipients of **(Spacebase)[https://www.spacebase.com]’s 2022 Newcomer Award**!
+We’re very happy to be the recipients of **[Spacebase](https://www.spacebase.com)’s 2022 Newcomer Award**!
 
 <img src="/photos/015 spacebase_zertifikat 900px.jpg" alt="Framed certificate of co.up's Spacebase 2022 Newcomer Award placed next to the meeting room" width="700px">
 
