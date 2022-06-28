@@ -15,5 +15,3 @@ In the time since we launched, we’ve been able to welcome a wide range of book
 Thank you to [Spacebase](https://www.spacebase.com) for making this possible, and for choosing to grant us this award!
 
 You can book our space for meetings, workshops, meetups, events and more by following **[this link](https://www.spacebase.com/en/berlin/coworking-space/)** – choose from our quiet, well-lit meeting room for up to 5 people, or our spacious 155sqm event and workshop area equipped with projector, whiteboards and modular furniture as well as a lounge! (Our [Hygiene & Safety Guidelines](https://co-up.de/hygiene-safety-guidelines/) apply.)
-
-<a href="https://www.spacebase.com/en/berlin/coworking-space/"><img src="/photos/Badge_Award_for_Excellence 300px.jpg" alt="Coworking Space Berlin" width="300"></a>
