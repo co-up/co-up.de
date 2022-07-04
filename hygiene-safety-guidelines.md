@@ -7,12 +7,12 @@ title: co.up hygiene and safety guidelines
   Hygiene & safety guidelines
 </h1>
 
-_Last updated May 31, 2022_
+_Last updated July 4, 2022_
 
 In light of the current public health situation, the following rules are in place at co.up:
 
 **Proof of vaccination or recovery requirement (“2G”)**<br/>
-co.up is a “2G” space as defined by German regulations (“vaccinated/recovered”). All users of the space must provide valid proof of vaccination against, or recovery from, covid-19.
+co.up is a “2G” space as defined by German regulations (“vaccinated/recovered”). All users of the space must be able to provide valid proof of vaccination against, or recovery from, covid-19 when asked.
 
 As an additional measure, we recommend taking a rapid antigenic test before coming to the space, regardless of vaccination or recovery status.
 
