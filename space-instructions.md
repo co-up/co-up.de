@@ -33,7 +33,7 @@ After your booking, please return the space in the state you found it in and tre
 
 Drinks can be found in the event space refrigerator and cost 2€ a piece. Paying for the drinks is based on a trust system: you can either leave cash in the white bowl next to the fridge, or pay via the PayPal QR code posted on the fridge, or get in touch with us to add them to your invoice. You can also pay for the snacks in the kitchen this way. Empty bottles should be put in the matching crates.
 
-We would highly appreciate it if you let your participants know that they can sign up for a support membership or a coworking membership by going to [members.co-up.de](http://members.co-up.de), and that they can also make a one-time donation via PayPal or Ko-Fi at [co-up.de/support-us](http://co-up.de/support-us).
+We highly appreciate letting your participants know that they can sign up for a support membership or a coworking membership by going to [members.co-up.de](http://members.co-up.de), and that they can also make a one-time donation via PayPal or Ko-Fi at [co-up.de/support-us](http://co-up.de/support-us)!
 
 Tagging us on social media also goes a long way: you can find us on [Twitter](http://twitter.com/co_up), [Instagram](http://instagram.com/co_up_de) and on [Facebook](https://www.facebook.com/co.up.community/). Thank you kindly!
 
