@@ -8,7 +8,9 @@ redirect_from: space-instructions.html
   Space instructions
 </h1>
 
-Welcome to co.up! Below you will find basic instructions on how to use the space. Please note that our [Code of Conduct](https://co-up.de/code-of-conduct/) and [Hygiene Guidelines](https://co-up.de/hygiene-safety-guidelines/) also apply. Our space has a “2G” (vaccinated or recovered from covid-19) requirement, which we ask you to respect and enforce during your visit (2G + proof of booster or negative test result for events).
+Welcome to co.up! Below you will find basic instructions on how to use the space.
+
+Please note that our [Code of Conduct](https://co-up.de/code-of-conduct/) and [Hygiene Guidelines](https://co-up.de/hygiene-safety-guidelines/) also apply. Our space has a “2G” (vaccinated or recovered from covid-19) requirement, which we ask you to respect and enforce during your visit (2G + proof of booster or negative test result for events).
 
 ### Finding the space
 As the space is currently a bit harder to find, please follow the instructions on how to find us here: [co-up.de/about.html#location](http://co-up.de/about.html#location). Tell your guests to ring at "co.up" (3d floor).
