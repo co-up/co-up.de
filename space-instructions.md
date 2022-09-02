@@ -87,7 +87,7 @@ Zum barrierefreiene Zugang ist der Aufzugsschlüssel (mit einem runden Kopf) am 
 Unsere Toiletten sind leider nicht barrierefrei. Die nächstgelegenen Toiletten befinden sich in der Mittelpunktbibliothek (Adalbertstr. 2), der Bar Möbel Olfe (Reichenberger Str. 177) und der Bar Südblock (Admiralstr. 1-2): [http://wheelmap.org/map#/](http://wheelmap.org/map#/)
 
 ### Verlassen des Ortes und Schlüsselrückgabe
-Wenn du eine Veranstaltung außerhalb der Geschäftszeiten durchführst, achte bitte unbedingt darauf, dass Du die letzte Person bist, die das Gebäude verlässt, da die Teilnehmer:innen im Raum/Hof eingeschlossen werden könnten! Nach dem Abschließen der Tür kannst Du das Gebäude verlassen und kommst links durch das kleine Tor in der Adalbertstr. 5-6 nach draußen.
+Wenn du eine Veranstaltung außerhalb der Geschäftszeiten durchführst, achte bitte unbedingt darauf, dass Du die letzte Person bist, die das Gebäude verlässt, da die Teilnehmer* innen im Raum/Hof eingeschlossen werden könnten! Nach dem Abschließen der Tür kannst Du das Gebäude verlassen und kommst links durch das kleine Tor in der Adalbertstr. 5-6 nach draußen.
 
 Wenn Du keinen eigenen Schlüsselbund für den Space hast, musst du die Schlüssel persönlich bei einem:r Mitarbeiter:in von co.up oder Kiez Büro abholen und zurückgeben. Wenn es Probleme dazu gibt, melde Dich bitte so schnell wie möglich bei uns.
 
