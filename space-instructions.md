@@ -62,7 +62,7 @@ Willkommen bei co.up! Im Folgenden findest Du grundlegende Hinweise zur Nutzung 
 Bitte beachte, dass auch unser [Code of Conduct](https://co-up.de/code-of-conduct/) und unsere [Hygieneregelungen](https://co-up.de/hygiene-safety-guidelines/)  gelten. In unserem Space gilt eine "2G"-Anforderung (geimpft oder genesen). Wir bitten Dich, diese während Deines Besuchs zu respektieren und einzuhalten (bei Veranstaltungen gilt 2G + Nachweis einer Auffrischungsimpfung oder ein tagesaktuelles negatives Testergebnis).
 
 ### Wie du uns findest
-Da der Raum momentan etwas schwieriger zu finden ist, kannst Du hier eine genaue Lagebeschreibung abrufen: [co-up.de/about.html#location](http://co-up.de/about.html#location). Teile bitte Deinen Gäst:innen mit, dass sie bei "co.up" (im 3. OG) klingeln sollen.
+Da der Raum momentan etwas schwieriger zu finden ist, kannst Du hier eine genaue Lagebeschreibung abrufen: [co-up.de/about.html#location](http://co-up.de/about.html#location). Teile bitte Deinen Gäst* innen mit, dass sie bei "co.up" (im 3. OG) klingeln sollen.
 
 ### WLAN
 Um auf das Internet zuzugreifen, verbinde Dich mit "co.up". Das Passwort ist "clubmate".
