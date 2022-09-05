@@ -12,7 +12,7 @@ redirect_from: space-instructions.html
 
 Welcome to co.up! Below you will find basic instructions on how to use the space.
 
-Please note that our [Code of Conduct](https://co-up.de/code-of-conduct/) and [Hygiene Guidelines](https://co-up.de/hygiene-safety-guidelines/) also apply. Our space has a “2G” (vaccinated or recovered from covid-19) requirement, which we ask you to respect and enforce during your visit (2G + proof of booster or negative test result for events).
+Please note that our [Code of Conduct](https://co-up.de/code-of-conduct/) and [Hygiene Guidelines](https://co-up.de/hygiene-safety-guidelines/) also apply. We recommend "3G" (vaccinated/recovered/tested) to bookers and other users of the space.
 
 ### Finding the space
 As the space is currently a bit harder to find, please follow the instructions on how to find us here: [co-up.de/about.html#location](http://co-up.de/about.html#location). Tell your guests to ring at "co.up" (3d floor).
@@ -59,7 +59,7 @@ Thanks very much for your courtesy & understanding! co.up is happy to support yo
 
 Willkommen bei co.up! Im Folgenden findest Du grundlegende Hinweise zur Nutzung unseres Space.
 
-Bitte beachte, dass auch unser [Code of Conduct](https://co-up.de/code-of-conduct/) und unsere [Hygieneregelungen](https://co-up.de/hygiene-safety-guidelines/)  gelten. In unserem Space gilt eine "2G"-Anforderung (geimpft oder genesen). Wir bitten Dich, diese während Deines Besuchs zu respektieren und einzuhalten (bei Veranstaltungen gilt 2G + Nachweis einer Auffrischungsimpfung oder ein tagesaktuelles negatives Testergebnis).
+Bitte beachte, dass auch unser [Code of Conduct](https://co-up.de/code-of-conduct/) und unsere [Hygieneregelungen](https://co-up.de/hygiene-safety-guidelines/)  gelten. Wir empfehlen 3G ("geimpft/genesen/getestet") unseren Veranstalter:innen und anderen Nutzer:innen des Space.
 
 ### Wie du uns findest
 Da der Raum momentan etwas schwieriger zu finden ist, kannst Du hier eine genaue Lagebeschreibung abrufen: [co-up.de/about.html#location](http://co-up.de/about.html#location). Teile bitte Deinen Gäst* innen mit, dass sie bei "co.up" (im 3. OG) klingeln sollen.
@@ -87,7 +87,7 @@ Zum barrierefreiene Zugang ist der Aufzugsschlüssel (mit einem runden Kopf) am 
 Unsere Toiletten sind leider nicht barrierefrei. Die nächstgelegenen Toiletten befinden sich in der Mittelpunktbibliothek (Adalbertstr. 2), der Bar Möbel Olfe (Reichenberger Str. 177) und der Bar Südblock (Admiralstr. 1-2): [http://wheelmap.org/map#/](http://wheelmap.org/map#/)
 
 ### Verlassen des Ortes und Schlüsselrückgabe
-Wenn du eine Veranstaltung außerhalb der Geschäftszeiten durchführst, achte bitte unbedingt darauf, dass Du die letzte Person bist, die das Gebäude verlässt, da die Teilnehmer* innen im Raum/Hof eingeschlossen werden könnten! Nach dem Abschließen der Tür kannst Du das Gebäude verlassen und kommst links durch das kleine Tor in der Adalbertstr. 5-6 nach draußen.
+Wenn du eine Veranstaltung außerhalb der Geschäftszeiten durchführst, achte bitte unbedingt darauf, dass Du die letzte Person bist, die das Gebäude verlässt, da die Teilnehmer:innen im Raum/Hof eingeschlossen werden könnten! Nach dem Abschließen der Tür kannst Du das Gebäude verlassen und kommst links durch das kleine Tor in der Adalbertstr. 5-6 nach draußen.
 
 Wenn Du keinen eigenen Schlüsselbund für den Space hast, musst du die Schlüssel persönlich bei einem:r Mitarbeiter:in von co.up oder Kiez Büro abholen und zurückgeben. Wenn es Probleme dazu gibt, melde Dich bitte so schnell wie möglich bei uns.
 
