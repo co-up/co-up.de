@@ -29,8 +29,6 @@ Please ventilate the space as much as possible; we recommend at least once every
 **Other hygiene rules**<br/>
 In general, please be mindful of others in the space! We ask that you not come in to the space if you feel sick. Sneeze and cough into your elbow instead of your hand, and wash your hands frequently and thoroughly. Disinfectant wipes are available for wiping down shared surfaces. Please do not share food or drinks. Respect social distancing with others as much as possible.
 
-We reserve the right to revoke organizers’ access to the space if hygiene and safety protocols are not enforced.
-
 Current local infection protection regulations in Berlin: [SARS-CoV-2-Basisschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/).
 
 <h1>
