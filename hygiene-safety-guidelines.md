@@ -47,7 +47,7 @@ Veranstalter:innen und anderen Nutzer:innen des Space empfehlen wir 3G ("geimpft
 **Veranstaltungen**</br>
 Die Höchstbelegung für Veranstaltungen bei co.up beträgt derzeit 50 Personen, einschließlich Veranstalter:innen und Referent:innen.
 
-Wir empfehlen Veranstalter:innen, die [QR-Code-Check-in-Funktion der Corona-Warn-App]((https://www.coronawarn.app/en/eventregistration/) zu nutzen und die Zugänglichkeit ihrer Veranstaltung zu erhöhern, indem sie das Event über unser Highspeed-Internet streamen.
+Wir empfehlen Veranstalter:innen, die [QR-Code-Check-in-Funktion der Corona-Warn-App](https://www.coronawarn.app/en/eventregistration/) zu nutzen und die Zugänglichkeit ihrer Veranstaltung zu erhöhern, indem sie das Event über unser Highspeed-Internet streamen.
 
 **Masken**</br>
 Bitte trage weiterhin beim Coworking eine Maske, wenn du dich nicht an deinem Platz befindest.
