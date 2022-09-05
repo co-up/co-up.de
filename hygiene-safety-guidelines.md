@@ -20,7 +20,7 @@ The maximum occupancy for in-person events at co.up is currently 50 people, incl
 We strongly encourage event organizers to make use of the [Corona-Warn-App’s QR code check-in feature](https://www.coronawarn.app/en/eventregistration/), and to increase the accessibility of their event by taking advantage of our high-speed internet for streaming.
 
 **Masking**<br/>
-When coworking, please wear a mask whenever you are not at your seat.</br>
+When coworking, please wear a mask whenever you are not at your seat.<br/>
 During events, wearing a mask is strongly encouraged.
 
 **Ventilation**<br/>
@@ -41,22 +41,22 @@ _letztes Update am 6. September 2022_
 
 Aufgrund der aktuellen Lage gelten bei co.up folgenden Regeln:
 
-**3G**
+**3G**<br/>
 Veranstalter:innen und anderen Nutzer:innen des Space empfehlen wir 3G ("geimpft/genesen/getestet").
 
-**Veranstaltungen**
+**Veranstaltungen**<br/>
 Die Höchstbelegung für Veranstaltungen bei co.up beträgt derzeit 50 Personen, einschließlich Veranstalter:innen und Referent:innen.
 
 Wir empfehlen Veranstalter:innen, die [QR-Code-Check-in-Funktion der Corona-Warn-App](https://www.coronawarn.app/en/eventregistration/) zu nutzen und die Zugänglichkeit ihrer Veranstaltung zu erhöhern, indem sie das Event über unser Highspeed-Internet streamen.
 
-**Masken**
-Bitte trage weiterhin beim Coworking eine Maske, wenn du dich nicht an deinem Platz befindest</br>
+**Masken**<br/>
+Bitte trage weiterhin beim Coworking eine Maske, wenn du dich nicht an deinem Platz befindest.<br/>
 Bei Veranstaltungen wird das Tragen einer Maske dringend empfohlen.
 
-**Lüftung**
+**Lüftung**<br/>
 Bitte lüfte den Raum so oft wie möglich. Wir empfehlen, mindestens einmal pro Stunde die Fenster komplett zu öffnen.
 
-**Weitere Hygieneregelungen**
+**Weitere Hygieneregelungen**<br/>
 Bitte nimm grundsätzlich Rücksicht auf andere! Wir bitten dich, den Space nicht zu betreten, wenn du dich krank fühlst. Niese und huste in den Ellbogen statt in die Hand und wasche häufig und gründlich deine Hände. Zum Abwischen gemeinsam genutzter Flächen stehen Desinfektionstücher zur Verfügung. Bitte teile keine Speisen oder Getränke. Halte den Abstand zu anderen so gut wie möglich ein.
 
 Aktuelle Infektionsschutzbestimmungen in Berlin: [SARS-CoV-2-Basisschutzmaßnahmenverordnung](https://www.berlin.de/corona/massnahmen/verordnung/).
