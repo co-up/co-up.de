@@ -32,7 +32,7 @@ After your booking, please return the space in the state you found it in and tre
 
 ### Drinks, snacks & supporting the space
 
-Drinks can be found in the event space refrigerator and cost 2€ a piece. Paying for the drinks is based on a trust system: you can either leave cash in the white bowl next to the fridge, or pay via the PayPal QR code posted on the fridge, or get in touch with us to add them to your invoice. You can also pay for the snacks in the kitchen this way. Empty bottles should be put in the matching crates.
+Drinks can be found in the event space refrigerator and cost 2€ a piece. Paying for the drinks is based on a trust system: you can either pay through PayPal via [PayPal.me/CoUpCommunity](http://paypal.me/CoUpCommunity) or the QR code posted on the fridge, or get in touch with us to add them to your invoice. You can also pay for the snacks this way. **Please note that we no longer accept cash payments!**
 
 We highly appreciate letting your participants know that they can sign up for a support membership or a coworking membership by going to [members.co-up.de](http://members.co-up.de), and that they can also make a one-time donation via PayPal or Ko-Fi at [co-up.de/support-us](http://co-up.de/support-us)!
 
@@ -75,7 +75,7 @@ Bitte beachte, dass die Anmietung des Veranstaltungsraums eine Nutzung des Meeti
 Bitte gib den Raum nach Deiner Buchung im selben Zustand zurück, in dem Du ihn vorgefunden hast: Was du mitbringst, bitte beim Verlassen auch wieder mitbringen. Schmutziges Geschirr gehört in den Geschirrspüler. Wenn dieser voll ist, gib bitte einen Spülmaschinentab hinzu und schalte ihn ein. Bitte vergewissere Dich auch, dass die Kaffeemaschine sauber ist, bevor du den Space verlässt. Achte bitte besonders darauf, den Plastikschlauch für den Milchaufschäumer auszuspülen, indem Du ihn unter den Wasserhahn hältst. Bitte hinterlasse keine Milch in der Abtropfschale der Maschine. Reinigungsmittel, Toilettenpapier und Müllsäcke findest Du bei Bedarf in der Toilette auf der linken Seite.
 
 ### Getränke, Snacks und Unterstützung des Space
-Getränke sind im Kühlschrank des großen Event Space zu finden und kosten 2€ je Flasche. Die Bezahlung der Getränke erfolgt auf Vertrauensbasis: Du kannst entweder Bargeld in die weiße Schale neben dem Kühlschrank einwerfen, über den PayPal-QR-Code am Kühlschrank bezahlen oder Dich mit uns in Verbindung setzen, um sie auf Deine Rechnung zu setzen. Auch die Snacks in der Küche kannst du auf diese Weise bezahlen. Leere Flaschen sollten in die entsprechenden Kisten gelegt werden.
+Getränke sind im Kühlschrank des großen Event Space zu finden und kosten 2€ je Flasche. Die Bezahlung der Getränke erfolgt auf Vertrauensbasis: Du kannst entweder per PayPal über [PayPal.me/CoUpCommunity](http://paypal.me/CoUpCommunity) oder den PayPal-QR-Code am Kühlschrank bezahlen, oder Dich mit uns in Verbindung setzen, um sie auf Deine Rechnung zu setzen. Auch die Snacks kannst du auf diese Weise bezahlen. **Bitte beachte, dass wir keine Bargeldzahlungen mehr annehmen!**
 
 Wir freuen uns, wenn Du Deine Gäste darauf hinweist, dass sie sich unter [members.co-up.de](http://members.co-up.de) für eine Support- oder eine Coworking-Mitgliedschaft anmelden können. Unter [co-up.de/support-us](http://co-up.de/support-us) ist auch eine einmalige Spende über PayPal oder Ko-Fi möglich!
 
