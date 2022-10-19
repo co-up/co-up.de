@@ -46,6 +46,11 @@ For wheelchair users & people with special accessibility needs, the elevator key
 Unfortunately our bathrooms are not accessible; the closest such bathrooms are in the Mittelpunktbibliothek (Adalbertstr. 2), the bar Möbel Olfe (Reichenberger Str. 177) and the bar Südblock (Admiralstr. 1-2): [http://wheelmap.org/map#/](http://wheelmap.org/map#/)
 
 
+### In case of emergency
+
+Contact info in case of emergency (anything that cannot wait until regular business hours) is posted in the hallway, next to the meeting room.
+
+
 ### Leaving/Key return
  
 If you are running an event outside of office hours, be absolutely sure that you are the last person leaving, since participants might get locked in the space/courtyard! After locking the door, exit the building & go left to the small gate at Adalbertstr. 5-6.
@@ -53,6 +58,8 @@ If you are running an event outside of office hours, be absolutely sure that you
 If you do not have your own set of keys to the space, keys are to be picked up and returned in person with a member of co.up or Kiez Büro staff; if there is an issue, please get in touch with us ASAP.
 
 Thanks very much for your courtesy & understanding! co.up is happy to support you & your project. We look forward to hosting you!
+
+### Leaving/Key return
 
 
 <h1>Space-Anweisungen</h1>
@@ -85,6 +92,9 @@ Auch die Erwähnung und das Markieren in den sozialen Medien hilft uns weiter: D
 Zum barrierefreiene Zugang ist der Aufzugsschlüssel (mit einem runden Kopf) am rosa Plüschelefanten in der Küche angehangen. Der Schlüssel wird benötigt, um die Aufzugstür im Erdgeschoss von außen zu öffnen und um eine Etage auszuwählen: Auf dem Bedienfeld befindet sich ein Schlitz, in den der Schlüssel gesteckt und gedreht werden kann. Bitte stelle sicher, dass der Elefant nach der Benutzung wieder an seinen Platz kommt.
 
 Unsere Toiletten sind leider nicht barrierefrei. Die nächstgelegenen Toiletten befinden sich in der Mittelpunktbibliothek (Adalbertstr. 2), der Bar Möbel Olfe (Reichenberger Str. 177) und der Bar Südblock (Admiralstr. 1-2): [http://wheelmap.org/map#/](http://wheelmap.org/map#/)
+
+### Bei Notfällen
+Kontaktinfos für Notfälle (alles, was nicht bis zu unseren Öffnungszeiten warten kann) sind im Flur neben dem Meetingraum geschildert.
 
 ### Verlassen des Ortes und Schlüsselrückgabe
 Wenn du eine Veranstaltung außerhalb der Geschäftszeiten durchführst, achte bitte unbedingt darauf, dass Du die letzte Person bist, die das Gebäude verlässt, da die Teilnehmer:innen im Raum/Hof eingeschlossen werden könnten! Nach dem Abschließen der Tür kannst Du das Gebäude verlassen und kommst links durch das kleine Tor in der Adalbertstr. 5-6 nach draußen.
