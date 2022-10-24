@@ -59,8 +59,6 @@ If you do not have your own set of keys to the space, keys are to be picked up a
 
 Thanks very much for your courtesy & understanding! co.up is happy to support you & your project. We look forward to hosting you!
 
-### Leaving/Key return
-
 
 <h1>Space-Anweisungen</h1>
 
