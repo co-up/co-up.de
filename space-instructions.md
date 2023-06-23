@@ -26,7 +26,7 @@ Feel free to make use of whatever equipment in the space you would like to & rea
 The projector and speakers in the event space are both plugged into the power strip behind the curtain. The beamer projects onto the wall and can be used via HDMI. We have adapters on site, but recommend bringing your own just in case.
 The speakers can be used via an audio jack. We also have a couple different microphones on-site (but the acoustics of the room are good enough to not need one).
 
-Please note that rental of the event space does not include use of the meeting room, unless specifically arranged in advance. In the same way, rental of the meeting room excludes use of the event space, coworking desks and lounge area.
+Please note that use of the event space does not include use of the meeting room, unless specifically arranged in advance. In the same way, rental of the meeting room excludes use of the event space, coworking desks and lounge area.
 
 After your booking, please return the space in the state you found it in and treat it as a leave-no-trace campsite: if you brought it in, bring it out. Dirty dishes go in the dishwasher; if it is full, please toss in a soap tab & turn it on. Please also make sure the coffee machine is clean before you leave; in particular, rinse out the plastic tube for the milk foamer by running it under the faucet and do not leave any milk in the machine's drip tray. If needed, cleaning supplies, toilet paper & trash bags can be found in the bathroom to the left.
 
@@ -76,7 +76,7 @@ Um auf das Internet zuzugreifen, verbinde Dich mit "co.up". Das Passwort ist "cl
 Du kannst die Ausstattung des Raums nach Belieben nutzen und auch die Möbel nach Deinen Bedürfnissen umstellen--**außer** die Schreibtische mit Bildschirmen drauf (aka "Fixed Desks", hinten im Space).
 Der Beamer und die Lautsprecher im Veranstaltungsraum sind beide an die Steckdosenleiste hinter dem Vorhang angeschlossen. Der Beamer projiziert an die Wand und kann über HDMI genutzt werden. Wir haben einige Adapter vor Ort, empfehlen Dir aber, für den Fall der Fälle Deinen eigenen Adapter mitzubringen. Die Lautsprecher können über einen Audioanschluss verwendet werden. Wir haben auch einige verschiedene Mikrofone vor Ort, diese werden aber normalerweise nicht benötigt, da die Akustik des Raums gut genug ist.
 
-Bitte beachte, dass die Anmietung des Veranstaltungsraums eine Nutzung des Meetingraums nicht einschließt, es sei denn, dies wurde im Voraus ausdrücklich vereinbart. Ebenso schließt die Anmietung des Meetingraums die Nutzung des Veranstaltungsraums, des Lounge-Bereichs und der Coworking-Desks nicht mit ein.
+Bitte beachte, dass die Nutzung des Veranstaltungsraums eine Nutzung des Meetingraums nicht einschließt, es sei denn, dies wurde im Voraus ausdrücklich vereinbart. Ebenso schließt die Anmietung des Meetingraums die Nutzung des Veranstaltungsraums, des Lounge-Bereichs und der Coworking-Desks nicht mit ein.
 
 Bitte gib den Raum nach Deiner Buchung im selben Zustand zurück, in dem Du ihn vorgefunden hast: Was du mitbringst, bitte beim Verlassen auch wieder mitbringen. Schmutziges Geschirr gehört in den Geschirrspüler. Wenn dieser voll ist, gib bitte einen Spülmaschinentab hinzu und schalte ihn ein. Bitte vergewissere Dich auch, dass die Kaffeemaschine sauber ist, bevor du den Space verlässt. Achte bitte besonders darauf, den Plastikschlauch für den Milchaufschäumer auszuspülen, indem Du ihn unter den Wasserhahn hältst. Bitte hinterlasse keine Milch in der Abtropfschale der Maschine. Reinigungsmittel, Toilettenpapier und Müllsäcke findest Du bei Bedarf in der Toilette auf der linken Seite.
 
@@ -96,7 +96,7 @@ Unsere Toiletten sind leider nicht barrierefrei. Die nächstgelegenen Toiletten 
 Kontaktinfos für Notfälle (alles, was nicht bis zu unseren Öffnungszeiten warten kann) sind im Flur neben dem Meetingraum geschildert.
 
 ### Verlassen des Ortes und Schlüsselrückgabe
-Wenn du eine Veranstaltung außerhalb der Geschäftszeiten durchführst, achte bitte unbedingt darauf, dass Du die letzte Person bist, die das Gebäude verlässt, da die Teilnehmer:innen im Raum/Hof eingeschlossen werden könnten! Nach dem Abschließen der Tür kannst Du das Gebäude verlassen und kommst rechts durch das kleine Tor in der Adalbertstr. 8 nach draußen.
+Wenn du eine Veranstaltung außerhalb der Geschäftszeiten durchführst, achte bitte unbedingt darauf, dass Du die letzte Person bist, die das Gebäude verlässt, da die Teilnehmer*innen im Raum/Hof eingeschlossen werden könnten! Nach dem Abschließen der Tür kannst Du das Gebäude verlassen und kommst rechts durch das kleine Tor in der Adalbertstr. 8 nach draußen.
 
 Wenn Du keinen eigenen Schlüsselbund für den Space hast, musst du die Schlüssel persönlich bei einem:r Mitarbeiter:in von co.up oder Kiez Büro abholen und zurückgeben. Wenn es Probleme dazu gibt, melde Dich bitte so schnell wie möglich bei uns.
 
