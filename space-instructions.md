@@ -21,7 +21,7 @@ As the space is currently a bit harder to find, please follow the instructions o
 In order to access the Internet, connect to "co.up" with the password: clubmate. Open a browser to any page.
 
 ### Equipment
-Feel free to make use of whatever equipment in the space you would like to & rearrange the furniture according to your needs.
+Feel free to make use of whatever equipment in the space you would like to & rearrange the furniture according to your needs, **except** for any desks with screens on them (aka fixed desks, located in the back). 
 
 The projector and speakers in the event space are both plugged into the power strip behind the curtain. The beamer projects onto the wall and can be used via HDMI. We have adapters on site, but recommend bringing your own just in case.
 The speakers can be used via an audio jack. We also have a couple different microphones on-site (but the acoustics of the room are good enough to not need one).
@@ -73,7 +73,8 @@ Da der Raum momentan etwas schwieriger zu finden ist, kannst Du hier eine genaue
 Um auf das Internet zuzugreifen, verbinde Dich mit "co.up". Das Passwort ist "clubmate".
 
 ### Ausstattung
-Du kannst die Ausstattung des Raums nach Belieben nutzen und auch die Möbel nach Deinen Bedürfnissen umstellen. Der Beamer und die Lautsprecher im Veranstaltungsraum sind beide an die Steckdosenleiste hinter dem Vorhang angeschlossen. Der Beamer projiziert an die Wand und kann über HDMI genutzt werden. Wir haben einige Adapter vor Ort, empfehlen Dir aber, für den Fall der Fälle Deinen eigenen Adapter mitzubringen. Die Lautsprecher können über einen Audioanschluss verwendet werden. Wir haben auch einige verschiedene Mikrofone vor Ort, diese werden aber normalerweise nicht benötigt, da die Akustik des Raums gut genug ist.
+Du kannst die Ausstattung des Raums nach Belieben nutzen und auch die Möbel nach Deinen Bedürfnissen umstellen--**außer** die Schreibtische mit Bildschirmen drauf (aka "Fixed Desks", hinten im Space).
+Der Beamer und die Lautsprecher im Veranstaltungsraum sind beide an die Steckdosenleiste hinter dem Vorhang angeschlossen. Der Beamer projiziert an die Wand und kann über HDMI genutzt werden. Wir haben einige Adapter vor Ort, empfehlen Dir aber, für den Fall der Fälle Deinen eigenen Adapter mitzubringen. Die Lautsprecher können über einen Audioanschluss verwendet werden. Wir haben auch einige verschiedene Mikrofone vor Ort, diese werden aber normalerweise nicht benötigt, da die Akustik des Raums gut genug ist.
 
 Bitte beachte, dass die Anmietung des Veranstaltungsraums eine Nutzung des Meetingraums nicht einschließt, es sei denn, dies wurde im Voraus ausdrücklich vereinbart. Ebenso schließt die Anmietung des Meetingraums die Nutzung des Veranstaltungsraums, des Lounge-Bereichs und der Coworking-Desks nicht mit ein.
 
